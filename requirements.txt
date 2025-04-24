@@ -1,0 +1,8 @@
+streamlit
+osmnx
+folium
+networkx
+torch
+ultralytics
+opencv-python
+geopandas
